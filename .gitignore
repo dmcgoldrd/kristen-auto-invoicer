@@ -1,0 +1,16 @@
+# Ignore zip files
+*.zip
+
+# Ignore environment files
+.env
+.env.*
+
+# Ignore csv files
+*.csv
+*.pdf
+# Ignore files in any subdirectory
+*/*.zip
+*/.env
+*/.env.*
+*/*.csv
+*/*.pdf
